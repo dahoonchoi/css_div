@@ -1,6 +1,6 @@
 # HTML div
 
-기초적인 HTML DIV의 구조에 대해서 공부해보았습니다.
+기초적인 HTML DIV 영역분할 입니다.
 
 ## Installation
 
