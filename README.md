@@ -1,6 +1,6 @@
 # HTML div
 
-split screen into div
+기초적인 HTML DIV의 구조에 대해서 공부해보았습니다.
 
 ## Installation
 
