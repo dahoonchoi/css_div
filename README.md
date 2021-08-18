@@ -1,6 +1,6 @@
 # HTML div
 
-기초적인 HTML DIV 영역분할 입니다.
+기초적인 HTML DIV 영역을 분할 해보았습니다.
 
 ## Installation
 
